@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ### 4. Run the app
 
 ```bash
-python Cloud/cloud.py
+python main.py
 ```
 
 ### 5. Open the dashboard
